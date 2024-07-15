@@ -16,5 +16,24 @@ Offer tutorials on upcycling old clothes into new fashion items through integrat
 
 **Feature: Promote Sustainability**  
 Enable users to donate old clothes, earn points and coupons, and receive sustainability labels with detailed reuse information.
+
+**Design Challenges**:
+**Feature**: Design Challenges
+
+**Functionality**: Host design challenges for users to submit their creative fashion designs. This includes a special summer design challenge on the website.
+
+**Implementation:**
+A submission portal where users can upload their designs.
+Users can generate designs using an AI tool provided in the challenge section.
+Designs with the most votes will be rewarded with free coupons.
+Winning designs will be produced by the fashion industry.
+
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript
+AI: AI image generation API
+Backend: Firebas
+
+![Website Prototype](Prototype/ChallengesPage.png)
+
 ## Website
 Visit [EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
