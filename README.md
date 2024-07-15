@@ -41,7 +41,7 @@ Backend: Firebas
 **Functionality:** Showcase fashion designs in virtual reality environments.
 **Implementation:** Developed VR experiences where users can view and interact with fashion shows.
 **Tech Stack:** A-Frame(HTML), Three.js (3D graphics), CSS, JS,HTML
-![Website Prototype](Prototype/ChallengesPage.png)
+![Website Prototype](Prototype/Virtualshow.png)
 
 ## Website
 Visit [EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
