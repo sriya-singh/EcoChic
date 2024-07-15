@@ -74,4 +74,5 @@ Backend: Firebase
 
 
 ## Website
-Visit [EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
+To test our website live visit the website by clicking on the link given below
+[EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
