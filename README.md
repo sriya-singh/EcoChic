@@ -54,7 +54,7 @@ Frontend: HTML, CSS, JavaScript
 AI : AI image generation API
 Backend: Firebase
 
-![Website Prototype](Prototype/Virtualshow.png)
+![Website Prototype](Prototype/AIdesign.png)
 
 **Upcycling Ideas and DIY Tutorials**
 
