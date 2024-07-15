@@ -73,6 +73,8 @@ Backend: Firebase
 ![Website Prototype](Prototype/thriftingpage.png)
 
 
+[![Watch the video](Prototype/thumbnail.png)](https://youtu.be/t2Cu_7sT5vE)
+
 ## Website
 To test our website live visit the website by clicking on the link given below
 [EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
