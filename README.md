@@ -62,5 +62,16 @@ Backend: Firebase
 **Implementation:** Integrated a section with videos and articles on upcycling old clothes into new fashion items.
 **Tech Stack:** html,css,javascript, Firebase (backend), YouTube API (video integration)
 
+![Website Prototype](Prototype/Virtualshow.png)
+
+**Sustainable Fashion Thrifting**
+
+**Functionality:** Promote sustainability by allowing users to give away old clothes and earn points and coupons.
+**Implementation:** Implemented a thrifting section where users can donate clothes and provide information on how their clothes are reused, along with a thank you note for participating in the sustainability mission.
+**Tech Stack:** html,css,javascript (frontend), Firebase (backend)
+
+![Website Prototype](Prototype/Virtualshow.png)
+
+
 ## Website
 Visit [EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
