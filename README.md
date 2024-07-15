@@ -41,7 +41,26 @@ Backend: Firebas
 **Functionality:** Showcase fashion designs in virtual reality environments.
 **Implementation:** Developed VR experiences where users can view and interact with fashion shows.
 **Tech Stack:** A-Frame(HTML), Three.js (3D graphics), CSS, JS,HTML
+
 ![Website Prototype](Prototype/Virtualshow.png)
+
+**AI Design Lab**
+
+**Feature:** AI-Generated Trendy Designs
+**Functionality:** Use an AI bot to generate trendy designs based on user creativity.
+**Implementation:** Allow users to create and submit designs using the AI tool, fostering engagement and creativity.
+**Tech Stack:** 
+Frontend: HTML, CSS, JavaScript
+AI : AI image generation API
+Backend: Firebase
+
+![Website Prototype](Prototype/Virtualshow.png)
+
+**Upcycling Ideas and DIY Tutorials**
+
+**Functionality:** Offer tutorials on how to upcycle old clothes into new items.
+**Implementation:** Integrated a section with videos and articles on upcycling old clothes into new fashion items.
+**Tech Stack:** html,css,javascript, Firebase (backend), YouTube API (video integration)
 
 ## Website
 Visit [EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
