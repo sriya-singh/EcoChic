@@ -72,6 +72,7 @@ Backend: Firebase
 
 ![Website Prototype](Prototype/thriftingpage.png)
 
+Watch this video to get the idea about our website:
 
 [![Watch the video](Prototype/thumbnail.png)](https://youtu.be/t2Cu_7sT5vE)
 
