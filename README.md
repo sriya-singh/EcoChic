@@ -62,7 +62,7 @@ Backend: Firebase
 **Implementation:** Integrated a section with videos and articles on upcycling old clothes into new fashion items.
 **Tech Stack:** html,css,javascript, Firebase (backend), YouTube API (video integration)
 
-![Website Prototype](Prototype/Virtualshow.png)
+![Website Prototype](Prototype/Upcyclingpage.png)
 
 **Sustainable Fashion Thrifting**
 
@@ -70,7 +70,7 @@ Backend: Firebase
 **Implementation:** Implemented a thrifting section where users can donate clothes and provide information on how their clothes are reused, along with a thank you note for participating in the sustainability mission.
 **Tech Stack:** html,css,javascript (frontend), Firebase (backend)
 
-![Website Prototype](Prototype/Virtualshow.png)
+![Website Prototype](Prototype/thriftingpage.png)
 
 
 ## Website
