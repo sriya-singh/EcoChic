@@ -3,7 +3,6 @@
 Welcome to **EcoChic**, your go-to platform for sustainable fashion innovation! Our website offers unique features to engage users in creative, eco-friendly fashion activities.
 
 ## Key Features
-
 1. **Design Challenges**: Host design challenges where users can submit their creative fashion designs. Top designs are rewarded with free coupons, and winning designs are produced by the fashion industry.
 
 2. **Virtual Reality Fashion Show**: Showcase fashion designs in virtual reality environments, allowing users to view and interact with fashion shows.
@@ -17,7 +16,6 @@ Welcome to **EcoChic**, your go-to platform for sustainable fashion innovation! 
 6. **Chatbot Assistance**: Provide users with a chatbot to answer questions about the website and its features.
 
 ## Tech Stack
-
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Firebase Authentication, Firestore Database, Firebase Storage
 - **VR Experience**: A-Frame, Three.js
@@ -29,7 +27,6 @@ Explore the database structure by visiting the following link: [Database](https:
 
 ## Demo Video
 Watch our demo video to get a better idea of our website:
-
 [![Watch the video](Prototype/thumbnail.png)](https://youtu.be/t2Cu_7sT5vE)
 
 ## Live Website
