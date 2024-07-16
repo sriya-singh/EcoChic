@@ -1,81 +1,40 @@
 # EcoChic
-![Website Prototype](Prototype/homePage.png)
-### Solution for Website
 
-**Feature: Design Challenges**  
-Host design challenges where users can submit their creative fashion designs. Top designs are rewarded with free coupons and winning designs are produced by the fashion industry.
+Welcome to **EcoChic**, your go-to platform for sustainable fashion innovation! Our website offers unique features to engage users in creative, eco-friendly fashion activities.
 
-**Feature: Virtual Reality Fashion Show**  
-Showcase fashion designs in virtual reality environments, allowing users to view and interact with fashion shows.
+## Key Features
 
-**Feature: AI-Generated Trendy Designs**  
-Use an AI bot to generate trendy designs based on user creativity, fostering engagement and innovation.
+1. **Design Challenges**: Host design challenges where users can submit their creative fashion designs. Top designs are rewarded with free coupons, and winning designs are produced by the fashion industry.
 
-**Feature: Upcycling Tutorials**  
-Offer tutorials on upcycling old clothes into new fashion items through integrated videos and articles.
+2. **Virtual Reality Fashion Show**: Showcase fashion designs in virtual reality environments, allowing users to view and interact with fashion shows.
 
-**Feature: Promote Sustainability**  
-Enable users to donate old clothes, earn points and coupons, and receive sustainability labels with detailed reuse information.
+3. **AI-Generated Trendy Designs**: Use AI-driven design tools to generate trendy designs based on user creativity, fostering engagement and innovation.
 
-**Design Challenges**:
-**Feature**: Design Challenges
+4. **Upcycling Tutorials**: Offer tutorials on upcycling old clothes into new fashion items through integrated videos and articles.
 
-**Functionality**: Host design challenges for users to submit their creative fashion designs. This includes a special summer design challenge on the website.
+5. **Promote Sustainability**: Encourage users to donate their old clothes for thrifting. In return, they can earn points and coupons. These donated clothes will be sold with sustainability labels that provide detailed information about their reuse, promoting a circular economy and environmental responsibility.
 
-**Implementation:**
-A submission portal where users can upload their designs.
-Users can generate designs using an AI tool provided in the challenge section.
-Designs with the most votes will be rewarded with free coupons.
-Winning designs will be produced by the fashion industry.
+6. **Chatbot Assistance**: Provide users with a chatbot to answer questions about the website and its features.
 
-**Tech Stack:**
-Frontend: HTML, CSS, JavaScript
-AI: AI image generation API
-Backend: Firebas
+## Tech Stack
 
-![Website Prototype](Prototype/ChallengesPage.png)
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Firebase Authentication, Firestore, Firebase Storage
+- **VR Experience**: A-Frame, Three.js
+- **APIs and Tools**: ImgGen API, YouTube API, Chatbase API
 
-**Virtual Runaway Shows**
+## Prototype
+Explore the prototype snippets by visiting the following link: [View Prototype](https://github.com/sriya-singh/EcoChic/tree/main/Prototype)
 
-**Feature:** Virtual Reality Fashion Show
-**Functionality:** Showcase fashion designs in virtual reality environments.
-**Implementation:** Developed VR experiences where users can view and interact with fashion shows.
-**Tech Stack:** A-Frame(HTML), Three.js (3D graphics), CSS, JS,HTML
-
-![Website Prototype](Prototype/Virtualshow.png)
-
-**AI Design Lab**
-
-**Feature:** AI-Generated Trendy Designs
-**Functionality:** Use an AI bot to generate trendy designs based on user creativity.
-**Implementation:** Allow users to create and submit designs using the AI tool, fostering engagement and creativity.
-**Tech Stack:** 
-Frontend: HTML, CSS, JavaScript
-AI : AI image generation API
-Backend: Firebase
-
-![Website Prototype](Prototype/AIdesign.png)
-
-**Upcycling Ideas and DIY Tutorials**
-
-**Functionality:** Offer tutorials on how to upcycle old clothes into new items.
-**Implementation:** Integrated a section with videos and articles on upcycling old clothes into new fashion items.
-**Tech Stack:** html,css,javascript, Firebase (backend), YouTube API (video integration)
-
-![Website Prototype](Prototype/Upcyclingpage.png)
-
-**Sustainable Fashion Thrifting**
-
-**Functionality:** Promote sustainability by allowing users to give away old clothes and earn points and coupons.
-**Implementation:** Implemented a thrifting section where users can donate clothes and provide information on how their clothes are reused, along with a thank you note for participating in the sustainability mission.
-**Tech Stack:** html,css,javascript (frontend), Firebase (backend)
-
-![Website Prototype](Prototype/thriftingpage.png)
-
-Watch this video to get the idea about our website:
+## Demo Video
+Watch our demo video to get a better idea of our website:
 
 [![Watch the video](Prototype/thumbnail.png)](https://youtu.be/t2Cu_7sT5vE)
 
-## Website
-To test our website live visit the website by clicking on the link given below
-[EcoChic](https://sriya-singh.github.io/EcoChic/weforshe/).
+## Live Website
+To experience EcoChic live, visit our website:
+[EcoChic Live](https://sriya-singh.github.io/EcoChic/weforshe/)
+
+---
+
+Thank you for visiting EcoChic! Together, let's make fashion sustainable and innovative! 🌿👗
