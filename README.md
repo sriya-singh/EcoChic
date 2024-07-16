@@ -19,7 +19,7 @@ Welcome to **EcoChic**, your go-to platform for sustainable fashion innovation! 
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Firebase Authentication, Firestore, Firebase Storage
+- **Backend**: Firebase Authentication, Firestore Database, Firebase Storage
 - **VR Experience**: A-Frame, Three.js
 - **APIs and Tools**: ImgGen API, YouTube API, Chatbase API
 
