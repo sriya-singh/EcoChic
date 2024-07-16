@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // Replace with your API endpoint and key
       const apiUrl = 'https://app.imggen.ai/v1/generate-image';
-      const apiKey = '8c472e3f-232b-45cb-bc28-bb52ad08b164';
+      const apiKey = '80174266-af38-4984-9de5-deafcfda97a1';
 
       // Request body
       const requestBody = {
