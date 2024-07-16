@@ -23,8 +23,9 @@ Welcome to **EcoChic**, your go-to platform for sustainable fashion innovation! 
 - **VR Experience**: A-Frame, Three.js
 - **APIs and Tools**: ImgGen API, YouTube API, Chatbase API
 
-## Prototype
-Explore the prototype snippets by visiting the following link: [View Prototype](https://github.com/sriya-singh/EcoChic/tree/main/Prototype)
+## Prototype and Database Structure
+Explore the prototype snippets by visiting the following link: [Prototype](https://github.com/sriya-singh/EcoChic/tree/main/Prototype)
+Explore the database structure by visiting the following link: [Database](https://github.com/sriya-singh/EcoChic/tree/main/Database%20Structure)
 
 ## Demo Video
 Watch our demo video to get a better idea of our website:
