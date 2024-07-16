@@ -2,7 +2,7 @@
 
 Welcome to **EcoChic**, your go-to platform for sustainable fashion innovation! Our website offers unique features to engage users in creative, eco-friendly fashion activities.
 
-[![Watch the video](Prototype/Homepage.png)]
+[![Watch the video](Prototype/homePage.png)]
 
 ## Key Features
 1. **Design Challenges**: Host design challenges where users can submit their creative fashion designs. Top designs are rewarded with free coupons, and winning designs are produced by the fashion industry.
