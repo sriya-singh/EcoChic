@@ -24,7 +24,7 @@ Welcome to **EcoChic**, your go-to platform for sustainable fashion innovation! 
 - **APIs and Tools**: ImgGen API, YouTube API, Chatbase API
 
 ## Prototype and Database Structure
-Explore the prototype snippets by visiting the following link: [Prototype](https://github.com/sriya-singh/EcoChic/tree/main/Prototype)
+Explore the prototype snippets by visiting the following link: [Prototype](https://github.com/sriya-singh/EcoChic/tree/main/Prototype) <br>
 Explore the database structure by visiting the following link: [Database](https://github.com/sriya-singh/EcoChic/tree/main/Database%20Structure)
 
 ## Demo Video
